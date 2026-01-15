@@ -5,4 +5,4 @@ A complete rewrite of GRBL using native ESP-IDF. Removing legacy AVR constraints
 
 
 
-Based on the original grbl project.
+*Based on the original [grbl](https://github.com/gnea/grbl) project.*
