@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 | Supported Targets | ESP32 | ESP32-C2 | ESP32-C3 | ESP32-C5 | ESP32-C6 | ESP32-C61 | ESP32-H2 | ESP32-P4 | ESP32-S2 | ESP32-S3 | Linux |
 | ----------------- | ----- | -------- | -------- | -------- | -------- | --------- | -------- | -------- | -------- | -------- | ----- |
 
@@ -51,3 +52,13 @@ Please use the following feedback channels:
 * For a feature request or bug report, create a [GitHub issue](https://github.com/espressif/esp-idf/issues)
 
 We will get back to you as soon as possible.
+=======
+# esp32_idf_grbl
+使用原生 ESP-IDF 对 GRBL 进行完全重写。移除旧版 AVR 限制，引入 FreeRTOS 任务调度，旨在为 ESP32 开发者提供一个结构清晰、易于扩展的运动控制核心。
+
+A complete rewrite of GRBL using native ESP-IDF. Removing legacy AVR constraints and introducing FreeRTOS task scheduling, aiming to provide a clean, extensible motion control core for ESP32 developers.
+
+
+
+*Based on the original [grbl](https://github.com/gnea/grbl) project.*
+>>>>>>> abf886801321ac0bcd07f6de8363fe4d354fa8bb
