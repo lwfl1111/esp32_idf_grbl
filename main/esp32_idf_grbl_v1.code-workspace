@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../grbl_stm32-master"
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "array": "c",
+            "span": "c",
+            "string": "c",
+            "string_view": "c",
+            "vector": "c",
+            "__config": "c",
+            "__hash_table": "c",
+            "__locale": "c",
+            "functional": "c",
+            "filesystem": "c",
+            "iomanip": "c",
+            "ios": "c",
+            "iterator": "c",
+            "locale": "c",
+            "ostream": "c",
+            "regex": "c",
+            "sstream": "c",
+            "thread": "c",
+            "type_traits": "c",
+            "bitset": "c",
+            "chrono": "c",
+            "format": "c",
+            "istream": "c",
+            "limits": "c",
+            "ratio": "c",
+            "stop_token": "c",
+            "streambuf": "c",
+            "tuple": "c",
+            "*.inc": "c",
+            "cstdint": "c"
+        }
+    }
+}
